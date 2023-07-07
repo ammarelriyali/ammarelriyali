@@ -14,6 +14,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/ammar-elriyali-2371121b3/**
 
 <h3 align="left">Connect with me:</h3>
+ammarelriyali@gmail.com
 <p align="left">
 </p>
 
